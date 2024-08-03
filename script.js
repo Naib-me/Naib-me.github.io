@@ -14,12 +14,12 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // 歌曲数据
     var songs = [
-        { title: "I", artist: "Athletics", src: "src/I - Athletics.mp3"},
-        {title: "II", artist: "Athletics",src: "src/II - Athletics.mp3"},
-        { title: "III", artist: "Athletics", src: "src/III - Athletics.mp3"},
-        {title: "IV", artist: "Athletics",src: "src/IV - Athletics.mp3"},
-        {title: "V", artist: "Athletics",src: "src/V - Athletics.mp3"},
-        {title: "VI", artist: "Athletics",src: "src/VT - Athletics.mp3"},
+        { title: "I", artist: "Athletics", src: "src/I-Athletics.mp3"},
+        {title: "II", artist: "Athletics",src: "src/II-Athletics.mp3"},
+        { title: "III", artist: "Athletics", src: "src/III-Athletics.mp3"},
+        {title: "IV", artist: "Athletics",src: "src/IV-Athletics.mp3"},
+        {title: "V", artist: "Athletics",src: "src/V-Athletics.mp3"},
+        {title: "VI", artist: "Athletics",src: "src/VT-Athletics.mp3"},
         //{title: ", artist: "",src: "src/"},
         // 更多歌曲...
     ];
