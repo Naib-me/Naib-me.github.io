@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #f8f8f8;
+    padding: 10px;
+    text-align: center;
+}
+
+#searchBox {
+    width: 80%;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.music-item {
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.music-item:hover {
+    background-color: #f0f0f0;
+}
